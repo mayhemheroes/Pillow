@@ -1,0 +1,4 @@
+project: PROJECT
+target: fuzz_font.pkg
+cmds:
+- cmd: /out/fuzz_font.pkg
